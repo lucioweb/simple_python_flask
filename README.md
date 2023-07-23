@@ -104,3 +104,14 @@ Press CTRL+C to quit
 Pronto! Está criando seu Projeto Python com Flask, rodando na porta 5000, porta de escuta padrão utilizada pelo Python, emitindo uma mensagem de boas vindas.
 
 Basta digitar no seu navegador favorito o seguinte URL: http://127.0.0.1:5000
+
+### ETAPAS COMPLEMENTARES
+Para realizar o upgrade das libs instaladas no projeto, instale:
+```
+$ pip install upgrade-requirements
+```
+... e execute:
+```
+$ upgrade-requirements
+```
+
